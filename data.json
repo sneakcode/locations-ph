@@ -2,51 +2,198 @@
     "Abra": {
         "Bangued": {
             "zipcode": "2800",
-            "barangay": []
+            "barangay": [
+                "Agtangao",
+                "Angad",
+                "Bangbangar",
+                "Bañacao",
+                "Cabuloan",
+                "Calaba",
+                "Calot/Tablac",
+                "Cosili East (Proper)",
+                "Cosili West (Buaya)",
+                "Dangdangla",
+                "Lingtan",
+                "Lipcan",
+                "Lubong",
+                "Macarcarmay",
+                "Macray",
+                "Malita",
+                "Maoay",
+                "Palao",
+                "Patucannnay",
+                "Sagap",
+                "San Antonio",
+                "Santa Rosa",
+                "Sao-atan",
+                "Sappaac",
+                "Zone 1 (Poblacion Nalasin)",
+                "Zone 2 (Poblacion Consiliman)",
+                "Zone 3 (Poblacion Lalaud)",
+                "Zone 4 (Poblacion Town Proper)",
+                "Zone 5 (Poblacion Bo. Barikir)",
+                "Zone 6 (Poblacion Sinapangan)",
+                "Zone 7 (Poblacion Baliliing)"
+            ]
         },
         "Boliney": {
             "zipcode": "2815",
-            "barangay": []
+            "barangay": [
+                "Amti",
+                "Baoyan",
+                "Danac East",
+                "Danac West",
+                "Dao-angan",
+                "Dumagas",
+                "Kilong-olao",
+                "Poblacion (Boliney)"
+            ]
         },
         "Bucay": {
             "zipcode": "2805",
-            "barangay": []
+            "barangay": [
+                "Abang",
+                "Bangbangcag",
+                "Bangcagan",
+                "Banglolao",
+                "Bugbog",
+                "Calao",
+                "Dugong",
+                "Labon",
+                "Layugan",
+                "Madalipay",
+                "North Poblacion",
+                "Pagala",
+                "Pakiling",
+                "Palaquio",
+                "Patoc",
+                "Quimloong",
+                "Salnec",
+                "San Miguel",
+                "Siblong",
+                "South Poblacion",
+                "Tabiog"
+            ]
         },
         "Bucloc": {
             "zipcode": "2817",
-            "barangay": []
+            "barangay": [
+                "Ducligan",
+                "Labaan",
+                "Lamao (Poblacion)",
+                "Lingey"
+            ]
         },
         "Daguioman": {
             "zipcode": "2816",
-            "barangay": []
+            "barangay": [
+                "Ableg",
+                "Cabaruyan",
+                "Pikek",
+                "Tui (Poblacion)"
+            ]
         },
         "Danglas": {
             "zipcode": "2825",
-            "barangay": []
+            "barangay": [
+                "Abaquid",
+                "Cabaruan",
+                "Caupasan (Poblacion)",
+                "Danglas",
+                "Nagaparan",
+                "Padangitan",
+                "Pangal"
+            ]
         },
         "Dolores": {
             "zipcode": "2801",
-            "barangay": []
+            "barangay": [
+                "Bayaan",
+                "Cabaroan",
+                "Calumbaya",
+                "Cardona",
+                "Isit",
+                "Kimmalaba",
+                "Libtec",
+                "Lublubba",
+                "Mudiit",
+                "Namitingan",
+                "Pacac",
+                "Poblacion",
+                "Salucag",
+                "Talogtog",
+                "Taping"
+            ]
         },
         "Lacub": {
             "zipcode": "2821",
-            "barangay": []
+            "barangay": [
+                "Bacag",
+                "Buneg",
+                "Guinguinabang",
+                "Lanag",
+                "Pacoc/Talampac",
+                "Poblacion"
+            ]
         },
         "Langagilang": {
             "zipcode": "2802",
-            "barangay": []
+            "barangay": [
+                "Aguet",
+                "Bacooc",
+                "Balais",
+                "Cayapa",
+                "Dalaguisan",
+                "Laang",
+                "Lagben",
+                "Laguiben",
+                "Nagtipulan",
+                "Nagtupacan",
+                "Paganao",
+                "Pawa",
+                "Poblacion",
+                "Presentar",
+                "Tagodtod",
+                "Taping",
+                "and San Isidro."
+            ]
         },
         "Lagayan": {
             "zipcode": "2824",
-            "barangay": []
+            "barangay": [
+                "Ba-I",
+                "Collago",
+                "Pang-ot",
+                "Poblacion",
+                "Pulot"
+            ]
         },
         "Langiden": {
             "zipcode": "2807",
-            "barangay": []
+            "barangay": [
+                "Baac",
+                "Mabungtot",
+                "Malapaao",
+                "Poblacion",
+                "Quillat"
+            ]
         },
         "La Paz": {
             "zipcode": "2826",
-            "barangay": []
+            "barangay": [
+                "Benben",
+                "Bubulala",
+                "Buli",
+                "Canan",
+                "Liguis",
+                "Malabbaga",
+                "Mudeng",
+                "Pidipid",
+                "Poblacion",
+                "San Gregorio",
+                "Toon",
+                "Udangan"
+            ]
         },
         "Licuan (Baay)": {
             "zipcode": "2819",
