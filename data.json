@@ -197,63 +197,246 @@
         },
         "Licuan (Baay)": {
             "zipcode": "2819",
-            "barangay": []
+            "barangay": [
+                "Bonglo",
+                "Bulbulala",
+                "Caoayan",
+                "Domenglay",
+                "Lenneng",
+                "Licuan",
+                "Mapisla",
+                "Mogao",
+                "Nalbuan",
+                "Subagan",
+                "Tumalip"
+            ]
         },
         "Luba": {
             "zipcode": "2813",
-            "barangay": []
+            "barangay": [
+                "Ampalioc",
+                "Barit",
+                "Gayaman",
+                "Lulluno",
+                "Luzong",
+                "Nagtuquipa",
+                "Poblacion",
+                "Sabnangan"
+            ]
         },
         "Malibcong": {
             "zipcode": "2820",
-            "barangay": []
+            "barangay": [
+                "Bayabas",
+                "Binasaran",
+                "Buanao",
+                "Dulao",
+                "Duldulao",
+                "Gacab",
+                "Lat-ey",
+                "Malibcong",
+                "Mataragan",
+                "Pacqued",
+                "Taripan",
+                "Umnap"
+            ]
         },
         "Manabo": {
             "zipcode": "2810",
-            "barangay": []
+            "barangay": [
+                "Ayyeng",
+                "Catacdegan Nuevo",
+                "Catacdegan Viejo",
+                "Luzong",
+                "San Jose Norte",
+                "San Jose Sur",
+                "San Juan Norte",
+                "San Juan Sur",
+                "San Ramon East",
+                "San Ramon west",
+                "Santo Tomas"
+            ]
         },
         "Peñarubia": {
             "zipcode": "2804",
-            "barangay": []
+            "barangay": [
+                "Dumayco",
+                "Lusuac",
+                "Malamsit",
+                "Namarabar",
+                "Patiao",
+                "Poblacion",
+                "Riang",
+                "Sta.Rosa",
+                "Tattawa"
+            ]
         },
         "Pidigan": {
             "zipcode": "2806",
-            "barangay": []
+            "barangay": [
+                "Alinaya",
+                "Arab",
+                "Garreta",
+                "Immuli",
+                "Laskig",
+                "Monggoc",
+                "Naguirayan",
+                "Pamutic",
+                "Pangtud",
+                "Pantuc",
+                "Poblacion East",
+                "Poblacion West",
+                "San Diego",
+                "Sulbec",
+                "Suyo",
+                "Yuyeng"
+            ]
         },
         "Pilar": {
             "zipcode": "2812",
-            "barangay": []
+            "barangay": [
+                "Bolbolo",
+                "Brookside",
+                "Dalit",
+                "Dintan",
+                "Gapang",
+                "Kinabiti",
+                "Maliplipit",
+                "Nagcanasan",
+                "Nanangduan",
+                "Narnara",
+                "Ocup",
+                "Pang-ot",
+                "Patad",
+                "Poblacion",
+                "San Juan East",
+                "San Juan west",
+                "South Balioag",
+                "Tikitik",
+                "Villavieja"
+            ]
         },
-        "Sal-Lapadan": {
+        "Sallapadan": {
             "zipcode": "2818",
-            "barangay": []
+            "barangay": [
+                "Barrio Sallapadan",
+                "Bazar",
+                "Bilabila",
+                "Gangal (Poblacion)",
+                "Maguyepyep",
+                "Naguilian",
+                "Sac-caang",
+                "Subusub",
+                "Ud-udiao"
+            ]
         },
         "San Isidro": {
             "zipcode": "2809",
-            "barangay": []
+            "barangay": [
+                "Cabayugan",
+                "Dalimag",
+                "Langbaban",
+                "Manayday",
+                "Sabtan-olo",
+                "Pantoc",
+                "Poblacion",
+                "San Marcial",
+                "Tangbao"
+            ]
         },
         "San Juan": {
             "zipcode": "2823",
-            "barangay": []
+            "barangay": [
+                "Abualan",
+                "Badas",
+                "Baug",
+                "Cabcaburao",
+                "Colabaoan",
+                "Culliong",
+                "Daoidao",
+                "Guimba",
+                "Lam-ag",
+                "Lumobang",
+                "Nangobongan",
+                "Pattaoig",
+                "Poblacion North",
+                "Poblacion South",
+                "Quidaoen",
+                "Sabangan",
+                "Sillet",
+                "Supiil",
+                "Tagaytay"
+            ]
         },
         "San Quintin": {
             "zipcode": "2808",
-            "barangay": []
+            "barangay": [
+                "Labaan",
+                "Palang",
+                "Pantoc",
+                "Poblacion",
+                "Tangadan",
+                "Villa Mercedes"
+            ]
         },
         "Tayum": {
             "zipcode": "2803",
-            "barangay": []
+            "barangay": [
+                "Bagalay",
+                "Basbasa",
+                "Budac",
+                "Bumagcat",
+                "Cabaroan",
+                "Deet",
+                "Gaddani",
+                "Patucannay",
+                "Pias",
+                "Poblacion",
+                "Velasco"
+            ]
         },
         "Tineg": {
             "zipcode": "2822",
-            "barangay": []
+            "barangay": [
+                "Agsimao",
+                "Alaoa",
+                "Anayan",
+                "Apao",
+                "Belaat",
+                "Caganayan",
+                "Cogon",
+                "Lanec",
+                "Lapat-Balantay",
+                "Naglibacan"
+            ]
         },
         "Tubo": {
             "zipcode": "2814",
-            "barangay": []
+            "barangay": [
+                "Alangtin",
+                "Amtuagan",
+                "Dilong",
+                "Kili",
+                "Mayabo",
+                "Sopo",
+                "Tabacda",
+                "Tiempo",
+                "Tub-tuba",
+                "Wayangan"
+            ]
         },
         "Villaviciosa": {
             "zipcode": "2811",
-            "barangay": []
+            "barangay": [
+                "Ap-apaya",
+                "Bollilising",
+                "Callao",
+                "Lap-lapog",
+                "Lumaba",
+                "Poblacion",
+                "Tamac",
+                "Tuquib"
+            ]
         }
     },
     "Agusan del Norte": {},
